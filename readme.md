@@ -2,7 +2,7 @@
 
 This web site is dedicated to giving people a guide to the effects of recreational drugs. It is not intended to encourage or dissuade individuals from taking drugs. The goal is to give an unbiased view on the effects of drugs on the human body. 
 
-This project is largely influenced on my curiosity on my personal usage of drugs, especially caffeine, tobacco, alcohol, and anti-depressants).
+This project is largely influenced on my frustration with information that appears after a simple google query such as 'what do drugs do?'. [ vcg cbvRubbish like this pop up far too often.](http://drsteger.net/?17 "horse-shit")
 
 The site will utilize the modern web's SVG capabilities to make an interactive experience for users. 
 
